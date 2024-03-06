@@ -9,7 +9,9 @@ BU - Boston University
 
 NREL - National Renewable Energy Laboratory
 
+Models and data can be downloaded from: https://osf.io/dwgtf/
 
+The two folders should be put in the same directory as the rest of the code.
 _______
 **DATA DESCRIPTION**
 _______
