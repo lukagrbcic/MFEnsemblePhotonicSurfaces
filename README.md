@@ -2,7 +2,7 @@
 Code and data for the manuscript "Inverse design of photonic surfaces on Inconel via multi-fidelity ensemble framework and high throughput femtosecond laser processing" by Grbcic, L. et al., 2024.
 
 _______
-DATASET
+**DATA DESCRIPTION**
 _______
 The dataset (in .npy format) used to train the models and for inverse design is labeled as:
 
@@ -13,3 +13,13 @@ The dataset (in .npy format) used to train the models and for inverse design is 
 **output_test_data.npy** - the output test data that contains 3,259 emissivity curves (822D)
 
 The data was previously shuffled and split so these four train and test data files can be used in the same way as it is described in the manuscript.
+
+_______
+**CODE DESCRIPTION**
+_______
+
+
+
+_______
+**MODELS DESCRIPTION**
+_______
