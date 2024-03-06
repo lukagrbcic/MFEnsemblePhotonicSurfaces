@@ -41,11 +41,11 @@ The forward models trained with varied train dataset sizes (2,500, 5,000, 8,500)
 
 The inverse models (N=20 estimators) trained with varied train dataset sizes (2,500, 5,000, 8,500):
 
-**inverseModel_2500_RF.pkl**
+**inverseModel_2500_RF_20.pkl**
 
-**inverseModel_5000_RF.pkl**
+**inverseModel_5000_RF_20.pkl**
 
-**inverseModel_8500_RF.pkl**
+**inverseModel_8500_RF_20.pkl**
 
 The PCA models (50 principal components) trained with varied train dataset sizes (2,500, 5,000, 8,500):
 
