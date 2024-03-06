@@ -22,6 +22,7 @@ The dataset (in .npy format) used to train the models and for inverse design is 
 **output_test_data.npy** - the output test data that contains 3,259 emissivity curves (822D)
 
 The data was previously shuffled and split so these four train and test data files can be used in the same way as it is described in the manuscript.
+For the inverse models, the inputs and outputs are switched.
 
 _______
 **CODE DESCRIPTION**
