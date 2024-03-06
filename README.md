@@ -2,9 +2,13 @@
 Code and data for the manuscript "Inverse design of photonic surfaces on Inconel via multi-fidelity ensemble framework and high throughput femtosecond laser processing" by Luka Grbcic (LBNL),Minok Park (LBNL), Mahmoud Elzouka (LBNL), Ravi Prasher (LBNL, UCB), Juliane Müller (NREL), Costas P. Grigoropoulos (UCB), Sean D. Lubner (LBNL, BU), Vassilia Zorba (LBNL, UCB), and Wibe Albert de Jong (LBNL), 2024.
 
 LBNL - Lawrence Berkeley National Laboratory
+
 UCB - University of California, Berkeley
+
 BU - Boston University
+
 NREL - National Renewable Energy Laboratory
+
 
 _______
 **DATA DESCRIPTION**
