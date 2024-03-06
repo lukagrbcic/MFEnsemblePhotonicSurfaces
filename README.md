@@ -33,28 +33,27 @@ The **pretrained_models** folder contains (in .pkl format) both the forward and 
 
 The forward models trained with varied train dataset sizes (2,500, 5,000, 8,500):
 
-**forwardModel_2500_RF.pkl 
-**
-**forwardModel_5000_RF.pkl 
-**
-**forwardModel_8500_RF.pkl
-**
+**forwardModel_2500_RF.pkl**
+
+**forwardModel_5000_RF.pkl**
+
+**forwardModel_8500_RF.pkl**
+
 The inverse models (N=20 estimators) trained with varied train dataset sizes (2,500, 5,000, 8,500):
 
-**inverseModel_2500_RF.pkl 
-**
-**inverseModel_5000_RF.pkl 
-**
-**inverseModel_8500_RF.pkl 
-**
+**inverseModel_2500_RF.pkl**
+
+**inverseModel_5000_RF.pkl**
+
+**inverseModel_8500_RF.pkl**
+
 The PCA models (50 principal components) trained with varied train dataset sizes (2,500, 5,000, 8,500):
 
-**pca_50_2500.pkl 
-**
-**pca_50_5000.pkl 
-**
-**pca_50_8500.pkl 
-**
+**pca_50_2500.pkl**
+
+**pca_50_5000.pkl**
+
+**pca_50_8500.pkl**
 
 Models with the same dataset sizes should be used together (i.e. forwardModel_2500_RF with inverseModel_2500_RF and pca_50_2500)
 _______
