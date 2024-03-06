@@ -1,6 +1,9 @@
 # Multi-fidelity ensemble framework for inverse design of photonic surfaces
 Code and data for the manuscript "Inverse design of photonic surfaces on Inconel via multi-fidelity ensemble framework and high throughput femtosecond laser processing" by Grbcic, L. et al., 2024.
 
+_______
+DATASET
+_______
 The dataset (in .npy format) used to train the models and for inverse design is labeled as:
 
 **input_train_data.npy** - the input train data that contains 8,500 laser processing parameters (power, speed, spacing) (3D) 
