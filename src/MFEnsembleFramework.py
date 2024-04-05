@@ -305,6 +305,7 @@ class InverseDesign:
 
                 
             optimizer = DE()
+            optimizer.variant = 'LSHADE'
             
             optimizer.lb = np.array([0.2, 10, 15])
             optimizer.ub = np.array([1.3, 700, 28])
